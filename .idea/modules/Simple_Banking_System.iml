@@ -3,8 +3,17 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../..">
-      <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../build" />
+      <excludeFolder url="file://$MODULE_DIR$/Problems" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Problems" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Simple Banking System/Advanced system" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Simple Banking System/Card anatomy" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Simple Banking System/I'm so lite" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Simple Banking System/Luhn algorithm" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Simple Banking System/task/test" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Simple Banking System/task/out" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Simple Banking System/task/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

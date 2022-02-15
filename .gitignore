@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/Problems/The sequence/out/
+/Problems/The sequence/out/production/classes/
+/Simple Banking System/task/build/
+/Simple Banking System/task/out/
+/Simple Banking System/task/out/production/classes/
+/Problems/
